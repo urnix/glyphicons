@@ -1,6 +1,6 @@
 {
   "name": "glyphicons",
   "main": [
-    "glyphicons.css"
+    "styles/glyphicons.css"
   ]
 }
